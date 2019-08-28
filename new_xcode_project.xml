@@ -1,0 +1,12 @@
+<application>
+  <component name="XcodeNewProjectMetadata">
+    <boolean key="useSwiftUI" value="true" />
+    <string key="organizationName" value="YgorLima" />
+    <string key="languageChoice" value="Swift" />
+    <boolean key="hasUnitTests" value="false" />
+    <boolean key="coreData" value="false" />
+    <string key="bundleIdentifierPrefix" value="com.ygorlima" />
+    <boolean key="coreDataCloudKit" value="false" />
+    <boolean key="hasUITests" value="false" />
+  </component>
+</application>
